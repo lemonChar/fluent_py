@@ -1,0 +1,3 @@
+[submodule "ref/example-code"]
+	path = ref/example-code
+	url = git@github.com:fluentpython/example-code.git
